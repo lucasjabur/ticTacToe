@@ -1,4 +1,4 @@
-# tic-tac-toe
+# ticTacToe
 
 Tic Tac Toe console game mande in GO.
 
